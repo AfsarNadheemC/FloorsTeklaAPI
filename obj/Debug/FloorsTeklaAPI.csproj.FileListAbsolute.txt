@@ -1,0 +1,15 @@
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\bin\Debug\FloorsTeklaAPI.exe.config
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\bin\Debug\FloorsTeklaAPI.exe
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\bin\Debug\FloorsTeklaAPI.pdb
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\bin\Debug\Tekla.Structures.dll
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\bin\Debug\Tekla.Structures.Model.dll
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\bin\Debug\Tekla.Structures.Datatype.dll
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\bin\Debug\Tekla.Technology.Scripting.dll
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\obj\Debug\FloorsTeklaAPI.csproj.AssemblyReference.cache
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\obj\Debug\FloorsTeklaAPI.Form1.resources
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\obj\Debug\FloorsTeklaAPI.Properties.Resources.resources
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\obj\Debug\FloorsTeklaAPI.csproj.GenerateResource.cache
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\obj\Debug\FloorsTeklaAPI.csproj.CoreCompileInputs.cache
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\obj\Debug\FloorsTe.A236BC89.Up2Date
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\obj\Debug\FloorsTeklaAPI.exe
+D:\IT\Software\C#\Tekla API\FloorsTeklaAPI\FloorsTeklaAPI\obj\Debug\FloorsTeklaAPI.pdb
